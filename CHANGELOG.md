@@ -1,3 +1,6 @@
+## 0.2.0 (February 15, 2023)
+
+
 ## 0.1.0 (February 15, 2023)
   - adding git workflow
   - adding math functions
